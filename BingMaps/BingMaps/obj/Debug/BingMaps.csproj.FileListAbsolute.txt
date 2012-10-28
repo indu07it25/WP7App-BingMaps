@@ -1,0 +1,15 @@
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\ApplicationIcon.png
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\Background.png
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\BingMaps.dll
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\BingMaps.pdb
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\AppManifest.xaml
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\BingMaps.xap
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\Bin\Debug\Microsoft.Phone.Controls.Maps.xml
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\ResolveAssemblyReference.cache
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\App.g.i.cs
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\MainPage.g.i.cs
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\BingMaps.g.resources
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\BingMaps.dll
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\BingMaps.pdb
+c:\users\developer\documents\visual studio 2010\Projects\BingMaps\BingMaps\obj\Debug\XapCacheFile.xml
